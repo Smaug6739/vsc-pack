@@ -52,3 +52,7 @@ A list of my extensions in visual studio code editor.
 - 📦 [xabikos.JavaScriptSnippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 - 📦 [zhuangtongfa.material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.material-theme)
 - 📦 [Zignd.html-css-class-completion](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
+
+## License
+
+This project has an MIT license.
