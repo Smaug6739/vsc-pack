@@ -1,5 +1,7 @@
 # Extensions pack
 
+A list of my extensions in visual studio code editor.
+
 ## Extensions list
 
 - 📦 [bungcip.better-toml](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
