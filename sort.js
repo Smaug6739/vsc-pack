@@ -49,8 +49,9 @@ const arr = [
   "Zignd.html-css-class-completion",
 ];
 let str = "";
-
+let str2 = "";
 for (const i of arr) {
   str += `- 📦 [${i}](https://marketplace.visualstudio.com/items?itemName=${i})\n`;
+  str2 += `- ${i}\n`;
 }
-console.log(str);
+console.log(str2);
