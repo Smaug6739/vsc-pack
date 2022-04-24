@@ -3,5 +3,5 @@
 
 .git* text
 *.json text
-*.js text
+*.js linguist-detectable=false
 *.md text linguist-detectable=true
