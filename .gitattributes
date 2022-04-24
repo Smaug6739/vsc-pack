@@ -1,4 +1,7 @@
 # Set default behavior to automatically normalize line endings.
 * text=auto
-*.md text linguist-detectable
 
+.git* text
+*.json text
+*.js text
+*.md text linguist-detectable
